@@ -1,2 +1,2 @@
 This project was made using useReducer hook.
-In this 'toDoList' user i able to add,toggle and remove list element.
+In this 'toDoList' user is able to add,toggle and remove list element. Functionality training.
